@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=390000,CODECS="avc1.4d0015,mp4a.40.2",RESOLUTION=426x240
+https://www.cineby.gd/tv/225171/1/1?play=true/225171/file2/6HTr4H7VbzRHd8~8bEJr2aKc+g60JSXsfPixgTBPIXvNeunvl5MkAUkk13eEqZGquioCEM9SIvv+9CU~BGsEgOAHz49JlGqWfV52I2FfETyiGwD7heWrYrZ8IyWOnwIPFb16+yOpw33JlK04Qw4Y9nmBQ5SatlEW14~JWVNq7yE=/MTA4MA==/aW5kZXgubTN1OA==.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1337000,CODECS="avc1.4d001e,mp4a.40.2",RESOLUTION=640x360
+https://www.cineby.gd/livestream/sky-sports-news-ssn-breaking-sports-news/1/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1390000,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=854x480
+http://www.youtube.com/api/manifest/hls_playlist/id/5025ba90a349f1cc/itag/94/source/yt_live_broadcast/ratebypass/yes/cmbypass/yes/playlist_type/LIVE/maudio/1/pmbypass/yes/upn/Rwg0UFeZvSM/sver/3/ip/85.30.32.34/ipbits/8/expire/1346084679/sparams/ip,ipbits,expire,id,itag,source,ratebypass,cmbypass,playlist_type,maudio,pmbypass/signature/78C81B4F4478C41301D74B948499F27021C4099F.58FB65EEB2C877E1CD245DBD118D05AF6F98181A/key/ck1/file/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3405200,CODECS="avc1.4d001f,mp4a.40.2",RESOLUTION=1280x720
+http://www.youtube.com/api/manifest/hls_playlist/id/5025ba90a349f1cc/itag/95/source/yt_live_broadcast/ratebypass/yes/cmbypass/yes/playlist_type/LIVE/maudio/1/pmbypass/yes/upn/Rwg0UFeZvSM/sver/3/ip/85.30.32.34/ipbits/8/expire/1346084679/sparams/ip,ipbits,expire,id,itag,source,ratebypass,cmbypass,playlist_type,maudio,pmbypass/signature/13694295F515B7A54C50A4E4CC74287D325506A7.7E5106F9BBC81C855CFB7DBB8E9EF1E2D35E5FCD/key/ck1/file/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=260520,CODECS="avc1.420015,mp4a.40.2",RESOLUTION=426x240
+http://www.youtube.com/api/manifest/hls_playlist/id/5025ba90a349f1cc/itag/132/source/yt_live_broadcast/ratebypass/yes/cmbypass/yes/playlist_type/LIVE/maudio/1/pmbypass/yes/upn/Rwg0UFeZvSM/sver/3/ip/85.30.32.34/ipbits/8/expire/1346084679/sparams/ip,ipbits,expire,id,itag,source,ratebypass,cmbypass,playlist_type,maudio,pmbypass/signature/48820006465AFBFCED4C7F9DEA46F26F30B4DAAF.4E694312E598250C7A24ABB8A78492E771FB2379/key/ck1/file/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=64000,CODECS="avc1.42000B,mp4a.40.2",RESOLUTION=128x72
+http://www.youtube.com/api/manifest/hls_playlist/id/5025ba90a349f1cc/itag/151/source/yt_live_broadcast/ratebypass/yes/cmbypass/yes/playlist_type/LIVE/maudio/1/pmbypass/yes/upn/Rwg0UFeZvSM/sver/3/ip/85.30.32.34/ipbits/8/expire/1346084679/sparams/ip,ipbits,expire,id,itag,source,ratebypass,cmbypass,playlist_type,maudio,pmbypass/signature/4B7CC10E34D46FAA166D32B260BD20BAF364F94E.475511FE9AD11ADA83FDC74979502E6C48E047DD/key/ck1/file/index.m3u8
